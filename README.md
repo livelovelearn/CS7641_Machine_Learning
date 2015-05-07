@@ -1,1 +1,1 @@
-Codes and analysis for 4 projects in # CS7641_Machine_Learning
+Codes and algorithm analysis for 4 projects for the Machine_Learning class
