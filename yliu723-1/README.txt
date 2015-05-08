@@ -26,7 +26,7 @@ III. Code file:
 5, coverForest_FFNN_analysis.py (simplified coverForest (7 classes --> 3 classes) dataset analysis with neuralNetwork and optimization)
 6, CoverTypeSamoleDistributionGraph.py (histograph for coverForest class distribution)
 
-Note: need to change file path.
+
 
 
 
