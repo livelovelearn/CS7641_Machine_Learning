@@ -2,7 +2,7 @@ I. Tools:
 1. The analysis was done with the ABAGAIL package, which can be downloaded from https://github.com/pushkar/ABAGAIL.
 2. The plots were generated using python matplotlib. 
 
-II. Dataset and optimization problems:
+II. Dataset and Randomized Optimization problems:
 1.  The dataset used for finding weights for a neural network is the Breast-Cancer-Wisconsin data as used in Assignment1.  The data has been preprocessed to remove entries with missing values.  The data file is included with this submission with the name "breast-cancer-wisconsin.data"
 2.  The three optimization problems used for testing the four search algorithms (RHC, SA, GA and MIMIC) are: (i) One-Max (ii) Traveling salesman (iii) Knapsack.
 
