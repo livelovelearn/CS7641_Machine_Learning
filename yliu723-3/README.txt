@@ -31,7 +31,6 @@ III. Code files:
 10_cancer_DR_ANN.py (Neural Network analysis using cancer dataset preprocessed by dimensionality reduction algorithms)
 11_cancer_Clustering_ANN.py (Neural Network analysis using cancer dataset preprocessed by clustering algorithms)
 
-Note: need to change file path.
 
 
 
