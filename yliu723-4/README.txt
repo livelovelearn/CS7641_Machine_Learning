@@ -8,7 +8,7 @@ The Burlap source code can also be found at Github:
 https://github.com/jmacglashan/burlap
 
 
-II. MDPs:
+II. Markov Decision Processes:
 The MDPs used for analysis are Four-Room (11x11) and Random-Maze (25x25).Both are modified from Burlap gridWorld domain.
 
 III. Code file:
